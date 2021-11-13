@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "253477579214",
+    "project_id": "musee-02",
+    "storage_bucket": "musee-02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253477579214:android:a40a16e1584b744b19639f",
+        "android_client_info": {
+          "package_name": "com.example.gradle_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253477579214-fkn73urdt01pl17d67899tdi520v97am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gradle_test",
+            "certificate_hash": "74ec365cb123b6bc103a879de9ab13d83e5c2e77"
+          }
+        },
+        {
+          "client_id": "253477579214-r9b0vrv87kdo3sc26iu0nl6btsfvrehj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-PoUIjV2QKJeKbnLfzY2SvASD7JYu8pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253477579214-r9b0vrv87kdo3sc26iu0nl6btsfvrehj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
