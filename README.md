@@ -1,6 +1,6 @@
 # gradle_test
 
-A new Flutter project.
+Flutter WhatsApp UI clone 
 
 ## Getting Started
 
